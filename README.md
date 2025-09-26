@@ -31,3 +31,11 @@ I’m a curious soul who loves solving problems and learning from every experien
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angiealpizarp@gmail.com)
 
 </div>
+
+## 📊 GitHub Stats
+<div align="center">
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansllxs&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&progress_color=FF1493)
+
+![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ansllxs&theme=dark&background=00000000&hide_border=true&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF)
+</div>
