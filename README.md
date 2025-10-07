@@ -1,13 +1,13 @@
-## Hi, i'm Angie Alpizar!👋
+## Hi, i'm Angie Alpizar!✨🙆🏻‍♀️
 I’m a curious soul who loves solving problems and learning from every experience. I believe that passion and perseverance can build anything nice — one line of code (and one cup of coffee) at a time.
 
 
 ## About me :p
 - 💻 Computer engineering at TEC, Costa Rica
-- 🔭 I’m currently exploring the world of Web3 and working on new projects.
-- 🌱 I’m learning more about blockchain development
-- 👩‍💻 Passionate about coding and technology.
-- ⚡ Fun fact: I'm a crocheter and i loOooOvee coffee☕️
+- ☀️ I’m currently exploring the world of Web3 and working on new projects.
+- 🐚 I’m learning more about blockchain development
+- 💐 Passionate about coding and technology.
+- 💖 Fun fact: I'm a crocheter and i loOooOvee coffee☕️
 
 
 ## 🛠️ Tech Stack
