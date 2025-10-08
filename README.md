@@ -1,4 +1,7 @@
-## Hi, i'm Angie Alpizar!✨🙆🏻‍♀️
+## Hello there!!
+<img width="1584" height="396" alt="Banner Angie Alpizar" src="https://github.com/user-attachments/assets/7c7b7086-e21b-43b2-a7e2-1e706c13c1e4" />
+
+
 I’m a curious soul who loves solving problems and learning from every experience. I believe that passion and perseverance can build anything nice — one line of code (and one cup of coffee) at a time.
 
 
